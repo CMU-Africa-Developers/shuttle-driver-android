@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Shuttle Driver</string>
     <string name="trip_name_placeholder">Trip Name</string>
-    <string name="route_name" translatable="false">Route Name</string>
-    <string name="trip_time">Trip Time</string>
+
 </resources>
